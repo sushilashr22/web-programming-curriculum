@@ -1,1 +1,1 @@
-sushilashr22.github.io
+https://github.com/sushilashr22/web-programming-curriculum.git
